@@ -16,7 +16,7 @@ http://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Releases (download files here!)
 ==========
-v1.0 https://github.com/ukwk/FOUNDhouse/releases/tag/1.0
+v1.0 https://github.com/ukwk/FOUNDhouse/releases/tag/1.1
 
 3D Files
 ==========
