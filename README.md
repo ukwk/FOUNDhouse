@@ -25,6 +25,4 @@ Included
 *.skp (SketchUp)
 *.stl
 
-![FOUNDhouse](https://www.unhooked.co.uk/micasa/images/design_what_found_means.png)
-
 ![FOUNDhouse](https://www.unhooked.co.uk/micasa/images/foundhouse_5.jpg)
